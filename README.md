@@ -63,17 +63,6 @@
   <img src="https://metrics.lecoq.io/TrimanRanvir?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" width="100%">
 </p>
 
-## 🎯 Repository Stats
-
-<div align="center">
-
-  ![GitHub Issues](https://img.shields.io/github/issues/TrimanRanvir/repo-name?style=for-the-badge)
-  ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/TrimanRanvir/repo-name?style=for-the-badge)
-  ![GitHub Forks](https://img.shields.io/github/forks/TrimanRanvir/repo-name?style=for-the-badge)
-  ![GitHub Stars](https://img.shields.io/github/stars/TrimanRanvir/repo-name?style=for-the-badge)
-
-</div>
-
 ## 🌐 Connect with Me
 
 <p align="center">
